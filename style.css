@@ -1,0 +1,57 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Raleway', sans-serif;
+    background-color: #A3BCB6;
+    text-align: center;
+    color: white;
+}
+p{
+    font-size: 120%; 
+}
+.galerija{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    
+}
+a:hover {
+    color: #3C403D;
+  }
+
+a:visited {
+    color:white;
+  }
+a:link {
+    font-size: 200%;
+    text-decoration: none;
+    color: white;
+    padding-left: 5%;
+    font-family: 'Raleway', sans-serif;    
+}
+.casjemacek{
+    margin-top: 6%;
+    background-color: white;
+    padding: 10%;
+    text-align: left;
+    color:black;
+}
+.macjenovice{
+    padding: 10%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    color: black;
+}
+.button {
+    background-color: #3C403D; 
+    border: none;
+    color: white;
+    padding: 3%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+  }
+
